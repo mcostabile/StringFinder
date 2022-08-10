@@ -18,4 +18,4 @@
 
 <h3>Screenshot of this project.</h3>
 
-![Bill](https://user-images.githubusercontent.com/###.PNG)
+![Bill](https://raw.githubusercontent.com/mcostabile/StringFinder/main/example.png)
