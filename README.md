@@ -2,7 +2,7 @@
 This project iterate on files in a folder looking for matching provided string
 
 ## Libraries used:
-### PyPDF2==2.10.0
+    PyPDF2==2.10.0
 
 ### To install external modules:
 Execute `pip install PyPDF2`
